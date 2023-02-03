@@ -83,13 +83,3 @@ The final report can be found above as a pdf file and will be presented below.
 * Calculate the accuracy on the test sets and exam the confusion matrix
 * Conclude the best ML model using Jaccard_score and F1_score
 
-
-## Results
-### EDA with visualization results
-### EDA with SQL results
-### Interactive map with Folium results
-### Plotly Dash dashboard results
-### Predictive analysis (classification) results
-
-## Conclusion
-
