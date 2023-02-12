@@ -1,6 +1,6 @@
 # Applied Data Science Capstone
 The final assignment of Applied Data Science Capstone in IBM Data Science Professional Certificate.
-The final report can be found above as a pdf file and will be presented below.
+The final report can be found above as a pdf file and part of it will be presented below.
 
 
 ## Review criteria
